@@ -10,7 +10,6 @@ float ballX,ballY;
 float BallSpeedX,BallSpeedY;
 float BallSize;
 
-String str1 = "ccp";
 
 
 void setup() {
